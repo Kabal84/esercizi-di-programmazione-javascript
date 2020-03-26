@@ -12,3 +12,5 @@
 
   http://www.imparareaprogrammare.it
 */
+
+run time=0;
